@@ -10,9 +10,10 @@ Este proyecto consiste en una página web interactiva que muestra visualizacione
 
 ## Como utilizar
 1.  **Clone the repo**
-2.  **Ejecutar la Página Web:**
+   git clone https://github.com/epaternina21/Sorting-Algorithms.git
+3.  **Ejecutar la Página Web:**
 Abre el archivo index.html en tu navegador web preferido.
-3. **Interactuar con la Página:**
+4. **Interactuar con la Página:**
 - Selecciona el algoritmo que deseas visualizar (Bubble Sort, Quick Sort, o Insertion Sort).
 - Ingresa una serie de números en la interfaz.
 - Observa cómo los números se organizan y cómo se resaltan las comparaciones (azul) y los intercambios (rojo).
