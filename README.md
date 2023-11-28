@@ -10,7 +10,7 @@ Este proyecto consiste en una página web interactiva que muestra visualizacione
 
 ## Como utilizar
 1.  **Clone the repo**
-   git clone https://github.com/epaternina21/Sorting-Algorithms.git
+git clone https://github.com/epaternina21/Sorting-Algorithms.git
 3.  **Ejecutar la Página Web:**
 Abre el archivo index.html en tu navegador web preferido.
 4. **Interactuar con la Página:**
