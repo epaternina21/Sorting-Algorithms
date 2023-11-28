@@ -20,7 +20,7 @@ Abre el archivo index.html en tu navegador web preferido.
 ### Tecnologías Utilizadas
 - Lenguaje de Programación: JavaScript
 - Herramientas de Desarrollo: HTML, CSS
-- 
+
 ### Contribuciones
 Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, sigue estos pasos:
 
